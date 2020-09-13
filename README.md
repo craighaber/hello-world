@@ -56,5 +56,5 @@ if __name__ == '__main__':
 This link to [GitHub Markdown Reference](https://guides.github.com/features/mastering-markdown/) was created using the following syntax
 \[text\]\(link\)
 ### Adding an Image from web
-![Connecticut College Logo](https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2019/03/04120022/Connecticut-College-400x400.jpg)\
+![Connecticut College Logo](https://www.conncoll.edu/media/website-media/visualidentity/images/Seal-Color.jpg)\
 \!\[Alt Text\]\(url\)
